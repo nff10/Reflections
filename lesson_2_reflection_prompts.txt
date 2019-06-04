@@ -1,0 +1,23 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, you allow you to run git status on the files inside of that directory that you want
+to make into a repository.  this allows you to see the file names (exactly as you will need to write it... you can put
+single quotes around the file name if it has spaces in it and it works.  from here, now you are able to add any untracked
+files to the staging area, then to the repository itself.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
